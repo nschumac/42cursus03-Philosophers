@@ -4,13 +4,14 @@ This goal of this project was to create a small 2D game, where you can collect "
 
 ## Usage:
 **MacOs Linux only**
-- `git clone --recursive https://github.com/nschumac/42cursus02-So_long.git`
+- `git clone https://github.com/nschumac/42cursus03-Philosophers.git`
 - run `make` in cloned repository
-- execute "so_long" with a map (e.g. maps/map.ber) as a parameter
+- execute philo e.g `./philo 4 420 200 200`
+**syntax: `./philo [amount of philosophers] [death time] [eat time] [sleep time] [optional "amount to eat"]`**
 ## Subject:
-<object data="https://github.com/nschumac/42cursus02-So_long/blob/main/subject/so_long-en.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/nschumac/42cursus02-So_long/blob/main/subject/so_long-en.pdf">
-        <p><a href="https://github.com/nschumac/42cursus02-So_long/blob/main/subject/so_long-en.pdf">so_long subject</a></p>
+<object data="https://github.com/nschumac/42cursus03-Philosophers/blob/main/subject/philosphers-en.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/nschumac/42cursus03-Philosophers/blob/main/subject/philosphers-en.pdf">
+        <p><a href="https://github.com/nschumac/42cursus03-Philosophers/blob/main/subject/philosphers-en.pdf">philosphers subject</a></p>
     </embed>
 </object>
 
