@@ -1,6 +1,6 @@
 # 42cursus03-Philosophers
 ## Description:
-This goal of this project was to create a small 2D game, where you can collect "collectables" and exit the world. We used the MiniLibX graphics library.
+The goal of this project is to create a simulation, in which you try to keep "philosophers" alive. They have a strict pattern that they follow -> eat, sleep, think, eat, ... <-. In the simulation the philosophers are sitting at a round table and are sharing forks. This means that two philosophers next to each other can never eat at the same time (in the code this is done through the use of mutex locks).
 
 ## Usage:
 **MacOs Linux only**
