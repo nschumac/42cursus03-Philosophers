@@ -7,6 +7,7 @@ This goal of this project was to create a small 2D game, where you can collect "
 - `git clone https://github.com/nschumac/42cursus03-Philosophers.git`
 - run `make` in cloned repository
 - execute philo e.g `./philo 4 420 200 200`
+
 **syntax: `./philo [amount of philosophers] [death time] [eat time] [sleep time] [optional "amount to eat"]`**
 ## Subject:
 <object data="https://github.com/nschumac/42cursus03-Philosophers/blob/main/subject/philosphers-en.pdf" type="application/pdf" width="700px" height="700px">
